@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "name": "Cybermind Work",
+      "description": "Application Development: Specializes in creating applications for web, mobile, and IoT platforms.",
+      "jobRole": "Full stack SED intern",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-12-31T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "description": "A global leader in search engines, AI, and cloud computing.",
+      "jobRole": "Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-10-15T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "description": "Innovates in software, cloud, and AI with products like Windows and Azure.",
+      "jobRole": "Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2024-03-05T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 4,
+      "name": "Amazon",
+      "description": "Dominates e-commerce and cloud computing through AWS.",
+      "jobRole": "System Engineer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-09-20T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 5,
+      "name": "IBM",
+      "description": "Provides AI, cloud computing, cybersecurity, and enterprise solutions.",
+      "jobRole": "Data Management",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-11-30T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 6,
+      "name": "Tesla",
+      "description": "Exploring cutting-edge biotechnology.",
+      "jobRole": "Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-08-25T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 7,
+      "name": "Apple",
+      "description": "Designs consumer electronics, software (iOS, macOS), and services.",
+      "jobRole": "iOS Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-12-10T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 8,
+      "name": "Meta",
+      "description": "Develops social media platforms, VR (Meta Quest), and AI research.",
+      "jobRole": "Cloud Computing",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2024-01-01T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 9,
+      "name": "ZOHO",
+      "description": "Offers SaaS products for CRM, business automation, and productivity tools.",
+      "jobRole": "Java Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2023-12-01T00:00:00Z",
+      "location": "Chennai"
+    },
+    {
+      "id": 10,
+      "name": "Infosys",
+      "description": "Provides IT consulting, software development, and outsourcing services.",
+      "jobRole": "Developer",
+      "experience": 3,
+      "salary": 2000,
+      "jobType": "FullTime",
+      "endDate": "2024-02-01T00:00:00Z",
+      "location": "Chennai"
+    }
+]

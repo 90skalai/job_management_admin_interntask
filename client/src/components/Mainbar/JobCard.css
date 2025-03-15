@@ -1,0 +1,110 @@
+.job-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 20px;
+  padding: 30px;
+  justify-content: center;
+}
+
+.job-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+  min-width: 270px;
+  max-width: 320px;
+  border: 1px solid #e0e0e0;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  height: 100%;
+}
+
+.job-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+  border-color: #007bff;
+}
+
+.job-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.job-time {
+  background: #e0f2ff;
+  color: #007bff;
+  padding: 6px 12px;
+  border-radius: 15px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.job-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #222;
+}
+
+.company-name {
+  color: #444;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;  /* Centering the company name */
+  margin-bottom: 10px;
+}
+
+.job-info {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.job-info span {
+  background: #f4f4f4;
+  padding: 6px 12px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.job-info span svg {
+  margin-right: 5px;
+}
+
+.job-description {
+  flex-grow: 1;
+  font-size: 14px;
+  color: #555;
+  margin: 10px 0;
+}
+
+.apply-button {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+  margin-top: auto;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.apply-button:hover {
+  background: linear-gradient(135deg, #0056b3, #004099);
+  transform: scale(1.05);
+}
+
+.apply-button:active {
+  transform: scale(0.98);
+}
